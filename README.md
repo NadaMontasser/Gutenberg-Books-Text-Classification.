@@ -1,7 +1,12 @@
 # Gutenberg-Books-Text-Classification.
+
+
+
+![image](https://user-images.githubusercontent.com/45748269/211864255-d2a094c1-7e51-406c-96ac-bf814966c742.png)
+
 1. **Objective**
 
-    Split the data into training and testing partitions using a random sample of 5 books written by different authors from the Gutenberg Digital Library. After that,    experiment with various transformation techniques and classification methods to accurately classify these partitions.
+    Text classification is an important task in text mining. It is a supervised method. Identifying textual categories or classes such as a blog, book, web page, news articles, and tweets.By split the data into training and testing partitions using a random sample of 5 books written by different authors from the Gutenberg Digital Library. After that, experiment with various transformation techniques and classification methods to accurately classify these partitions.
 
 2. **Data Transformation**
 
@@ -20,3 +25,5 @@
 
   
 ![image](https://user-images.githubusercontent.com/45748269/211862935-1577a8ad-7942-4325-ac2c-72de16f79857.png)
+***
+Gutenberg Digital Library https://www.gutenberg.org/
