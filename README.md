@@ -14,3 +14,9 @@
     **Champion Model**
     
 ![image](https://user-images.githubusercontent.com/45748269/211860914-3ed28612-35bf-4a74-afec-58323badb5ac.png)
+
+
+      **we chose Naïve Bayes model on Bag of Words (BAG) transformer with accuracy 99%. Naïve Bayes is the winner**
+
+  
+![image](https://user-images.githubusercontent.com/45748269/211862935-1577a8ad-7942-4325-ac2c-72de16f79857.png)
